@@ -1,4 +1,4 @@
-package RoadMap;
+package RoadMap;//
 
 public class Edge {
 	public int weighting ;
